@@ -1,0 +1,15 @@
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\Accounting.exe.config
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\Accounting.exe
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\Accounting.pdb
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\EntityFramework.dll
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\EntityFramework.SqlServer.dll
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\EntityFramework.xml
+E:\Тестовое Задание\Accounting\Accounting\bin\Release\EntityFramework.SqlServer.xml
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.csprojResolveAssemblyReference.cache
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.Accounting.resources
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.Insert.resources
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.Properties.Resources.resources
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.Update.resources
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.csproj.GenerateResource.Cache
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.exe
+E:\Тестовое Задание\Accounting\Accounting\obj\Release\Accounting.pdb
